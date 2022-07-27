@@ -1,3 +1,0 @@
-# new-repository
-hello world
-
